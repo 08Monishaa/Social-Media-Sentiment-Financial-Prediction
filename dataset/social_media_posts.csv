@@ -1,0 +1,101 @@
+Date,Company,Post,Sentiment,Sentiment_Score
+2025-01-01,TCS,The company reported excellent quarterly profits,Positive,0.765
+2025-01-02,Infosys,Stock prices are increasing steadily,Neutral,0.0
+2025-01-03,Wipro,Investors are happy with the company performance,Positive,0.5719
+2025-01-04,TCS,The company announced a new business partnership,Neutral,0.0
+2025-01-05,Infosys,Strong revenue growth this quarter,Positive,0.7096
+2025-01-06,Wipro,The company is performing very well,Positive,0.3384
+2025-01-07,TCS,Shares are showing positive growth,Positive,0.8126
+2025-01-08,Infosys,Excellent financial results announced,Positive,0.5719
+2025-01-09,Wipro,The company is expanding its business,Neutral,0.0
+2025-01-10,TCS,Good news for investors,Positive,0.4404
+2025-01-11,Infosys,The company reported a major financial loss,Negative,-0.3182
+2025-01-12,Wipro,Stock prices are falling rapidly,Negative,-0.1531
+2025-01-13,TCS,Investors are disappointed with performance,Negative,-0.4767
+2025-01-14,Infosys,The company faces serious business challenges,Neutral,0.0
+2025-01-15,Wipro,Revenue has declined significantly,Neutral,0.0
+2025-01-16,TCS,Shares are performing poorly,Positive,0.296
+2025-01-17,Infosys,Weak quarterly financial results,Negative,-0.4404
+2025-01-18,Wipro,Market uncertainty is increasing,Negative,-0.34
+2025-01-19,TCS,The company reported declining profits,Positive,0.4404
+2025-01-20,Infosys,Bad news for shareholders,Negative,-0.5423
+2025-01-21,Wipro,The company announced its quarterly results,Neutral,0.0
+2025-01-22,TCS,The stock market opened today,Neutral,0.0
+2025-01-23,Infosys,Investors are monitoring company shares,Positive,0.296
+2025-01-24,Wipro,The company scheduled a board meeting,Neutral,0.0
+2025-01-25,TCS,Trading volume remained unchanged,Neutral,0.0
+2025-01-26,Infosys,The company released a financial statement,Neutral,0.0
+2025-01-27,Wipro,Shares are trading at the current market price,Positive,0.296
+2025-01-28,TCS,The company announced a meeting,Neutral,0.0
+2025-01-29,Infosys,Financial analysts reviewed the report,Neutral,0.0
+2025-01-30,Wipro,The market closed today,Neutral,0.0
+2025-01-31,TCS,The company reported excellent quarterly profits,Positive,0.765
+2025-02-01,Infosys,Stock prices are increasing steadily,Neutral,0.0
+2025-02-02,Wipro,Investors are happy with the company performance,Positive,0.5719
+2025-02-03,TCS,The company announced a new business partnership,Neutral,0.0
+2025-02-04,Infosys,Strong revenue growth this quarter,Positive,0.7096
+2025-02-05,Wipro,The company is performing very well,Positive,0.3384
+2025-02-06,TCS,Shares are showing positive growth,Positive,0.8126
+2025-02-07,Infosys,Excellent financial results announced,Positive,0.5719
+2025-02-08,Wipro,The company is expanding its business,Neutral,0.0
+2025-02-09,TCS,Good news for investors,Positive,0.4404
+2025-02-10,Infosys,The company reported a major financial loss,Negative,-0.3182
+2025-02-11,Wipro,Stock prices are falling rapidly,Negative,-0.1531
+2025-02-12,TCS,Investors are disappointed with performance,Negative,-0.4767
+2025-02-13,Infosys,The company faces serious business challenges,Neutral,0.0
+2025-02-14,Wipro,Revenue has declined significantly,Neutral,0.0
+2025-02-15,TCS,Shares are performing poorly,Positive,0.296
+2025-02-16,Infosys,Weak quarterly financial results,Negative,-0.4404
+2025-02-17,Wipro,Market uncertainty is increasing,Negative,-0.34
+2025-02-18,TCS,The company reported declining profits,Positive,0.4404
+2025-02-19,Infosys,Bad news for shareholders,Negative,-0.5423
+2025-02-20,Wipro,The company announced its quarterly results,Neutral,0.0
+2025-02-21,TCS,The stock market opened today,Neutral,0.0
+2025-02-22,Infosys,Investors are monitoring company shares,Positive,0.296
+2025-02-23,Wipro,The company scheduled a board meeting,Neutral,0.0
+2025-02-24,TCS,Trading volume remained unchanged,Neutral,0.0
+2025-02-25,Infosys,The company released a financial statement,Neutral,0.0
+2025-02-26,Wipro,Shares are trading at the current market price,Positive,0.296
+2025-02-27,TCS,The company announced a meeting,Neutral,0.0
+2025-02-28,Infosys,Financial analysts reviewed the report,Neutral,0.0
+2025-03-01,Wipro,The market closed today,Neutral,0.0
+2025-03-02,TCS,The company reported excellent quarterly profits,Positive,0.765
+2025-03-03,Infosys,Stock prices are increasing steadily,Neutral,0.0
+2025-03-04,Wipro,Investors are happy with the company performance,Positive,0.5719
+2025-03-05,TCS,The company announced a new business partnership,Neutral,0.0
+2025-03-06,Infosys,Strong revenue growth this quarter,Positive,0.7096
+2025-03-07,Wipro,The company is performing very well,Positive,0.3384
+2025-03-08,TCS,Shares are showing positive growth,Positive,0.8126
+2025-03-09,Infosys,Excellent financial results announced,Positive,0.5719
+2025-03-10,Wipro,The company is expanding its business,Neutral,0.0
+2025-03-11,TCS,Good news for investors,Positive,0.4404
+2025-03-12,Infosys,The company reported a major financial loss,Negative,-0.3182
+2025-03-13,Wipro,Stock prices are falling rapidly,Negative,-0.1531
+2025-03-14,TCS,Investors are disappointed with performance,Negative,-0.4767
+2025-03-15,Infosys,The company faces serious business challenges,Neutral,0.0
+2025-03-16,Wipro,Revenue has declined significantly,Neutral,0.0
+2025-03-17,TCS,Shares are performing poorly,Positive,0.296
+2025-03-18,Infosys,Weak quarterly financial results,Negative,-0.4404
+2025-03-19,Wipro,Market uncertainty is increasing,Negative,-0.34
+2025-03-20,TCS,The company reported declining profits,Positive,0.4404
+2025-03-21,Infosys,Bad news for shareholders,Negative,-0.5423
+2025-03-22,Wipro,The company announced its quarterly results,Neutral,0.0
+2025-03-23,TCS,The stock market opened today,Neutral,0.0
+2025-03-24,Infosys,Investors are monitoring company shares,Positive,0.296
+2025-03-25,Wipro,The company scheduled a board meeting,Neutral,0.0
+2025-03-26,TCS,Trading volume remained unchanged,Neutral,0.0
+2025-03-27,Infosys,The company released a financial statement,Neutral,0.0
+2025-03-28,Wipro,Shares are trading at the current market price,Positive,0.296
+2025-03-29,TCS,The company announced a meeting,Neutral,0.0
+2025-03-30,Infosys,Financial analysts reviewed the report,Neutral,0.0
+2025-03-31,Wipro,The market closed today,Neutral,0.0
+2025-04-01,TCS,The company reported excellent quarterly profits,Positive,0.765
+2025-04-02,Infosys,Stock prices are increasing steadily,Neutral,0.0
+2025-04-03,Wipro,Investors are happy with the company performance,Positive,0.5719
+2025-04-04,TCS,The company announced a new business partnership,Neutral,0.0
+2025-04-05,Infosys,Strong revenue growth this quarter,Positive,0.7096
+2025-04-06,Wipro,The company is performing very well,Positive,0.3384
+2025-04-07,TCS,Shares are showing positive growth,Positive,0.8126
+2025-04-08,Infosys,Excellent financial results announced,Positive,0.5719
+2025-04-09,Wipro,The company is expanding its business,Neutral,0.0
+2025-04-10,TCS,Good news for investors,Positive,0.4404
